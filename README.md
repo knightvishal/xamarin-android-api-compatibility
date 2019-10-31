@@ -47,7 +47,7 @@ variables:
 
 ## `make check`
 
-Use the `make check` target to compare a set of Xamarin.Android assemblies
+Use the `make check` target - to compare a set of Xamarin.Android assemblies
 against the reference API description. It accepts the following optional
 **make**(1) variables:
 
